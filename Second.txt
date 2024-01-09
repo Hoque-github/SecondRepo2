@@ -1,0 +1,1 @@
+This is my Second.txt text file that I shall push to Github Server.
